@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a pre-final year student pursuing B-Tech. <br>Currently learning and practicing DSA from Code Help dot batch👨‍💻.<br>I'm also fluent in Full Stack web development. <br>I am passionate about learning new things ,result driven, meeting new people and exploring new experience❤️ Flexible and willing to work in growth oriented environment.
+I'm a pre-final year student pursuing B-Tech. <br>Currently learning and practicing DSA from Code Help Supreme batch👨‍💻.<br>I'm also fluent in Full Stack web development. <br>I am passionate about learning new things ,result driven, meeting new people and exploring new experience❤️ Flexible and willing to work in growth oriented environment.
 
 
 ## 🌐 Socials:
