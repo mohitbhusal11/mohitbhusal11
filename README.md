@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm a final year student pursuing B-Tech. <br>Currently learning and practicing DSA from Code Help Supreme batch👨‍💻.<br>I'm also fluent in Full Stack web development. <br>I am passionate about learning new things ,result driven, meeting new people and exploring new experience❤️ Flexible and willing to work in growth oriented environment.
+[![An image of @mohitbhusal11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitbhusal11)](https://holopin.io/@mohitbhusal11)
+
 
 
 ## 🌐 Socials:
