@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🎓 **B.Tech Graduate in Computer Science**  
-💼 **2+ years of industry experience** in:
+💼 **3+ years of industry experience** in:
 
 - **Native Android Development** (Kotlin, Java, Jetpack, XML)  
 - **Hybrid Mobile Development** using **React Native** (TypeScript / JavaScript)
